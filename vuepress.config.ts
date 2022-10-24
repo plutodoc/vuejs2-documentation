@@ -28,6 +28,7 @@ export default defineUserConfig({
             {
               text: '1 基础',
               children: [
+                '/documentation/guide/installation.md',
                 '/documentation/guide/index.md',
               ],
             },
